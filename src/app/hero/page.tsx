@@ -9,14 +9,14 @@ const MainPage = () => {
     <div className=' '>
       <Navbar />
       <div className='flex flex-col justify-center items-center max-h-screen bg-gradient-to-b from-gray-950 via-neutral-950 to-purple-950 py-[15%]'>
-        <div className='flex gap-2 bg-zinc-900 rounded-full px-3 py-1 '>
+        <div className='flex gap-2 bg-zinc-900 rounded-full px-3 py-1 mt-5'>
           <span className='bg-purple-500 px-[3px] my-[7px] rounded-full'></span>
           <h2 className='text-sm text-purple-500'>POWERED BY PANAVERSITY</h2>
         </div>
         <h2 className='text-5xl md:text-6xl font-bold text-center bg-gradient-to-r from-purple-500 via-indigo-600 to-purple-500 bg-clip-text text-transparent my-4'>Enterprise AI Agents </h2>
         <span className='text-5xl md:text-6xl font-bold'>for the Future</span>
 
-        <div className='relative bg-zinc-900 border-[1px] border-purple-400 rounded-md mt-10 mx-2 w-[400px] md:w-[750px] h-[125px] md:h-[110px]'>
+        <div className='relative bg-zinc-900 border-[1px] border-purple-400 rounded-md mt-10 mx-2 w-[320px] md:w-[750px] h-[125px] md:h-[110px]'>
           <div className='flex items-center gap-4 mx-6 my-5'>
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
               stroke-linecap="round" stroke-linejoin="round" className="lucide lucide-bot w-8 h-8 bg-gradient-to-r from-purple-500 to-indigo-600 p-1 rounded-full"><path d="M12 8V4H8"></path><rect width="16"
